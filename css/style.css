@@ -1,16 +1,20 @@
 *{
-  font-size: 14px;
+    font-size: 14px;
+
 }
 
 #container {
     background-color: rgb(190, 189, 189);
     width: 80%;
     margin: auto;
+    
 }
 
-header{
-    height: 100%;
-    background:purple;
+header {
+    outline-color: white;
+    height: 0px;
+    background:white;
+    font-size: 0%;
 }
 nav{
     
@@ -30,6 +34,7 @@ nav ul li{
     background-color:lightblue;
     display: inline-block;
     width: 15%;
+    font-size: 20px;
    
     
 }
